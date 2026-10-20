@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+logs/
+reports/
+backups/
+test_folder/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.tmp
+*.swp
