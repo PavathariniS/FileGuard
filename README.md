@@ -6,8 +6,25 @@
 FileGuard is a defensive cybersecurity project built with Python
 and CustomTkinter for monitoring file integrity and investigating
 filesystem changes on Linux.
+## FileGuard SOC Dashboard
 
-## Features
+![FileGuard SOC Dashboard](screenshots/dashboard.png)
+
+### Security Monitoring Capabilities
+
+- Real-time filesystem monitoring
+- SHA-256 integrity verification
+- LOW, MEDIUM and HIGH severity alerts
+- File tampering detection
+- SOC investigation and event filtering
+- Security report generation
+### Security Monitoring Capabilities
+
+- Real-time filesystem monitoring
+- SHA-256 integrity verification
+- LOW, MEDIUM and HIGH severity alerts
+- File tampering detection
+- SOC investigation and event filtering
 
 - Real-time filesystem monitoring using Watchdog
 - SHA-256 file integrity verification
